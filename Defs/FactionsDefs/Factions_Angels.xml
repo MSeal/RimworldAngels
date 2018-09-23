@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <FactionDef>
+    <defName>Angels</defName>
+    <label>angels</label>
+    <description>The “Angels” were a group of wanted fugitives who stole a cloning ship a century earlier and escaped to the stars. They have since developed into a severely religious cult who believe in trans-human replacements, cannibalism, and odd senses of justice. The cult only includes clones of the original outcasts, and their genetic mutations from the slowly leaking reactor core of their clone ship home. To fuel their religious vigor and growing boredom they attack ships and eat their crews in festival-like fashion. Lately shipping has become wary of Angel territory and the crews have been expanding to raiding planets with their stolen ships.</description>
+    <pawnSingular>angel</pawnSingular>
+    <pawnsPlural>angels</pawnsPlural>
+    <mustStartOneEnemy>false</mustStartOneEnemy>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxCountAtGameStart>1</maxCountAtGameStart>
+    <listOrderPriority>10</listOrderPriority>
+    <settlementGenerationWeight>0.2</settlementGenerationWeight>
+    <canMakeRandomly>false</canMakeRandomly>
+    <canSiege>false</canSiege>
+    <canStageAttacks>true</canStageAttacks>
+    <leaderTitle>holy one</leaderTitle>
+    <expandingIconTexture>World/WorldObjects/AngelLogo</expandingIconTexture>
+    <colorSpectrum>
+      <li>(0.50, 1.00, 0.83)</li>
+      <li>(0.88, 1.00, 1.00)</li>
+    </colorSpectrum>
+    <permanentEnemy>true</permanentEnemy>
+    <!-- TODO ?? -->
+    <factionNameMaker>NamerFactionPirate</factionNameMaker>
+    <!-- TODO ?? -->
+    <settlementNameMaker>NamerSettlementPirate</settlementNameMaker>
+    <techLevel>Industrial</techLevel>
+    <!-- TODO ?? -->
+    <backstoryCategories>
+      <li>Raider</li>
+    </backstoryCategories>
+    <geneticVariance>0.8</geneticVariance>
+    <hairTags>
+      <li>Punk</li>
+    </hairTags>
+    <allowedArrivalTemperatureRange>
+      <min>-40</min>
+      <max>45</max>
+    </allowedArrivalTemperatureRange>
+    <!-- TODO ?? -->
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70, 50)</li>
+        <li>(700, 100)</li>
+        <li>(1300, 150)</li>
+        <li>(100000, 10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <pawnGroupMakers>
+      <li>
+        <!-- Normal fights, ranged with melee mix-ins -->
+        <kindDef>Combat</kindDef>
+        <commonality>100</commonality>
+        <options>
+          <Fresh_Angel_Clone>10</Fresh_Angel_Clone>
+          <Angel_Clone_Thrasher>5</Angel_Clone_Thrasher>
+          <Angel_Clone>10</Angel_Clone>
+          <Angel_Brother>10</Angel_Brother>
+          <Angel_Grenadier>2</Angel_Grenadier>
+          <Angel_Slasher>5</Angel_Slasher>
+          <Angel_Heavy_Faither>10</Angel_Heavy_Faither>
+          <Angel_Meanie>5</Angel_Meanie>
+          <Angel_Boss>5</Angel_Boss>
+        </options>
+      </li>
+      <li>
+        <!-- Normal fights, melee-only -->
+        <kindDef>Combat</kindDef>
+        <commonality>30</commonality>
+        <disallowedStrategies>
+          <li>Siege</li>
+        </disallowedStrategies>
+        <options>
+          <Angel_Clone_Thrasher>10</Angel_Clone_Thrasher>
+          <Angel_Slasher>10</Angel_Slasher>
+          <Angel_Meanie>5</Angel_Meanie>
+        </options>
+      </li>
+      <li>
+        <!-- Normal fights, (heavy) ranged only -->
+        <kindDef>Combat</kindDef>
+        <commonality>10</commonality>
+        <options>
+          <Fresh_Angel_Clone>10</Fresh_Angel_Clone>
+          <Angel_Clone>10</Angel_Clone>
+          <Angel_Brother>10</Angel_Brother>
+          <Angel_Grenadier>5</Angel_Grenadier>
+          <Angel_Heavy_Faither>15</Angel_Heavy_Faither>
+          <Angel_Boss>5</Angel_Boss>
+        </options>
+      </li>
+      <li>
+        <!-- Normal fights, explosives with ranged mix-ins -->
+        <kindDef>Combat</kindDef>
+        <commonality>15</commonality>
+        <disallowedStrategies>
+          <li>Siege</li>
+        </disallowedStrategies>
+        <options>
+          <Fresh_Angel_Clone>15</Fresh_Angel_Clone>
+          <Angel_Grenadier>15</Angel_Grenadier>
+          <Angel_Brother>5</Angel_Brother>
+          <Angel_Heavy_Faither>5</Angel_Heavy_Faither>
+          <Angel_Meanie>1</Angel_Meanie>
+          <Angel_Boss>1</Angel_Boss>
+        </options>
+      </li>
+      <li>
+        <!-- Normal fights, frseh clones only (rare) -->
+        <kindDef>Combat</kindDef>
+        <commonality>5</commonality>
+        <maxTotalPoints>1000</maxTotalPoints>
+        <options>
+          <Fresh_Angel_Clone>10</Fresh_Angel_Clone>
+        </options>
+      </li>
+      <li>
+        <!-- Base defense, mix of ranged with melee -->
+        <kindDef>Settlement</kindDef>
+        <options>
+          <Fresh_Angel_Clone>5</Fresh_Angel_Clone>
+          <Angel_Clone_Thrasher>3</Angel_Clone_Thrasher>
+          <Angel_Clone>7</Angel_Clone>
+          <Angel_Brother>15</Angel_Brother>
+          <Angel_Grenadier>2</Angel_Grenadier>
+          <Angel_Slasher>3</Angel_Slasher>
+          <Angel_Heavy_Faither>5</Angel_Heavy_Faither>
+          <Angel_Meanie>10</Angel_Meanie>
+          <Angel_Boss>5</Angel_Boss>
+        </options>
+      </li>
+    </pawnGroupMakers>
+    <homeIconPath>World/WorldObjects/AngelLogo</homeIconPath>
+  </FactionDef>
+
+</Defs>
