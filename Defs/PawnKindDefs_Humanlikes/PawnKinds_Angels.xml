@@ -8,9 +8,9 @@
       <!-- TODO -->
       <li>Raider</li>
     </backstoryCategories>
-    <!-- TODO move to backstory -->
     <modExtensions>
       <li Class="Angels.DefModExtension_AngelPawn">
+        <!-- TODO move to backstory -->
         <restrictedFirstNames>
           <li>Pah</li>
           <li>Faroh</li>
@@ -24,6 +24,7 @@
         <restrictedLastNames>
           <li>Angel</li>
         </restrictedLastNames>
+        <maxHediffs>3</maxHediffs>
       </li>
     </modExtensions>
     <gearHealthRange>
@@ -406,6 +407,18 @@
       <li>NeolithicMeleeAdvanced</li>
       <li>MedievalMeleeAdvanced</li>
     </weaponTags>
+    <modExtensions>
+      <li Class="Angels.DefModExtension_AngelPawn">
+        <!-- TODO move to backstory -->
+        <restrictedFirstNames>
+          <li>Meanie</li>
+        </restrictedFirstNames>
+        <restrictedLastNames>
+          <li>Angel</li>
+        </restrictedLastNames>
+        <maxHediffs>8</maxHediffs>
+      </li>
+    </modExtensions>
     <weaponMoney>
       <min>500</min>
       <max>1000</max>
