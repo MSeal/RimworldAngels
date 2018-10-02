@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: angels -->
+  <Angels.label>angeli</Angels.label>
+  <Angels.description>Gli "Angeli" erano un gruppo di fuggitivi ricercati che rubarono una nave da clonazione un secolo prima e fuggirono verso le stelle. Da allora si sono trasformati in un culto severamente religioso che crede nelle sostituzioni trans-umane, cannibalismo e strani sensi di giustizia. Il culto include solo cloni degli emarginati originali e le loro mutazioni genetiche dal nucleo del reattore che perde lentamente la loro casa di cloni. Per alimentare il loro vigore religioso e la crescente noia attaccano le navi e mangiano i loro equipaggi in modo festoso. Ultimamente le spedizioni sono diventate diffidenti nei confronti del territorio di Angel e gli equipaggi si sono espansi per razziare i pianeti con le loro navi rubate.</Angels.description>
+  <!-- EN: angel -->
+  <Angels.pawnSingular>angelo</Angels.pawnSingular>
+  <!-- EN: angels -->
+  <Angels.pawnsPlural>angeli</Angels.pawnsPlural>
+  <!-- EN: holy one -->
+  <Angels.leaderTitle>Quello santo</Angels.leaderTitle>
+</LanguageData>

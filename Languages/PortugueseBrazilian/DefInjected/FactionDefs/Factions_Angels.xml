@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: angels -->
+  <Angels.label>anjos</Angels.label>
+  <Angels.description>Os "anjos" eram um grupo de fugitivos procurados que roubaram uma nave de clonagem um século antes e fugiram para as estrelas. Desde então, eles desenvolveram um culto religioso severo que acredita em substituições trans-humanas, canibalismo e estranhos sentidos de justiça. O culto inclui apenas clones dos exilados originais e suas mutações genéticas do núcleo do reator que vazou lentamente de seu clone para casa. Para alimentar seu vigor religioso e tédio crescente, eles atacam navios e comem suas tripulações de maneira festiva. Ultimamente o transporte se tornou cauteloso em relação ao território de Angel e as tripulações se expandiram para invadir planetas com seus navios roubados.</Angels.description>
+  <!-- EN: angel -->
+  <Angels.pawnSingular>anjo</Angels.pawnSingular>
+  <!-- EN: angels -->
+  <Angels.pawnsPlural>anjos</Angels.pawnsPlural>
+  <!-- EN: holy one -->
+  <Angels.leaderTitle>santo um</Angels.leaderTitle>
+</LanguageData>

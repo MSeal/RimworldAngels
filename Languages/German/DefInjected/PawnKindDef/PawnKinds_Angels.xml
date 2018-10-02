@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fresh angel clone -->
+  <Fresh_Angel_Clone.label>frischer Engel Klon</Fresh_Angel_Clone.label>
+  <!-- EN: angel clone -->
+  <Angel_Clone.label>Engel Klon</Angel_Clone.label>
+  <!-- EN: angel clone -->
+  <Angel_Clone_Thrasher.label>Engel Klon</Angel_Clone_Thrasher.label>
+  <!-- EN: angel -->
+  <Angel_Brother.label>Engel</Angel_Brother.label>
+  <!-- EN: angel brother -->
+  <Angel_Brother.labelMale>Engelsbruder</Angel_Brother.labelMale>
+  <!-- EN: angel sister -->
+  <Angel_Brother.labelFemale>Engel Schwester</Angel_Brother.labelFemale>
+  <!-- EN: angel slasher -->
+  <Angel_Slasher.label>Engelsschneider</Angel_Slasher.label>
+  <!-- EN: agent of the faith -->
+  <Angel_Heavy_Faither.label>Agent des Glaubens</Angel_Heavy_Faither.label>
+  <!-- EN: angel boss -->
+  <Angel_Boss.label>Engels-Boss</Angel_Boss.label>
+  <!-- EN: angel father -->
+  <Angel_Boss.labelMale>Engelsvater</Angel_Boss.labelMale>
+  <!-- EN: angel mother -->
+  <Angel_Boss.labelFemale>Engelsmutter</Angel_Boss.labelFemale>
+  <!-- EN: angel bosses -->
+  <Angel_Boss.labelPlural>Engelsvorsteher</Angel_Boss.labelPlural>
+  <!-- EN: angel grenadier -->
+  <Angel_Grenadier.label>Engel Grenadier</Angel_Grenadier.label>
+  <!-- EN: angel meanie -->
+  <Angel_Meanie.label>Engel meine Güte</Angel_Meanie.label>
+</LanguageData>

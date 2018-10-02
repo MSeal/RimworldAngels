@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: angels -->
+  <Angels.label>anges</Angels.label>
+  <Angels.description>Les «anges» sont un groupe de fugitifs recherchés qui ont volé un navire de clonage un siècle plus tôt et se sont échappés vers les étoiles. Depuis, ils sont devenus un culte très religieux qui croit au remplacement transhumain, au cannibalisme et à d’éventuels sens de la justice. Le culte ne comprend que des clones des parias originaux, et leurs mutations génétiques provenant du cœur du réacteur qui fuit lentement de leur clone ship. Pour alimenter leur vigueur religieuse et leur ennui croissant, ils attaquent les navires et mangent leurs équipages à la manière d'un festival. Dernièrement, la navigation s'est méfiée du territoire d'Angel et les équipages se sont multipliés pour attaquer les planètes avec leurs navires volés.</Angels.description>
+  <!-- EN: angel -->
+  <Angels.pawnSingular>ange</Angels.pawnSingular>
+  <!-- EN: angels -->
+  <Angels.pawnsPlural>anges</Angels.pawnsPlural>
+  <!-- EN: holy one -->
+  <Angels.leaderTitle>saint</Angels.leaderTitle>
+</LanguageData>

@@ -22,10 +22,8 @@
       <li>(0.88, 1.00, 1.00)</li>
     </colorSpectrum>
     <permanentEnemy>true</permanentEnemy>
-    <!-- TODO ?? -->
-    <factionNameMaker>NamerFactionPirate</factionNameMaker>
-    <!-- TODO ?? -->
-    <settlementNameMaker>NamerSettlementPirate</settlementNameMaker>
+    <factionNameMaker>NamerFactionAngel</factionNameMaker>
+    <settlementNameMaker>NamerBaseAngel</settlementNameMaker>
     <techLevel>Industrial</techLevel>
     <!-- TODO ?? -->
     <backstoryCategories>
@@ -42,7 +40,7 @@
     <!-- TODO ?? -->
     <maxPawnCostPerTotalPointsCurve>
       <points>
-        <li>(0,35)</li>
+        <li>(0, 35)</li>
         <li>(70, 50)</li>
         <li>(700, 100)</li>
         <li>(1300, 150)</li>

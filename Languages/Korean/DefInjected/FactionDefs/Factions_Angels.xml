@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: angels -->
+  <Angels.label>천사들</Angels.label>
+  <Angels.description>"천사"는 1 세기 전에 복제 선박을 훔쳐 별에 도주 한 도망자들이었습니다. 그들은 트랜스 인적 대치, 식인 풍습, 그리고 이상한 정의의 정의를 믿는 심각한 종교 숭배로 발전해 왔습니다. 컬트는 원래 버림받은 사람들의 복제품과 복제품 배의 천천히 새는 원자로 코어에서 유래 한 돌연변이를 포함합니다. 그들의 종교적 활기와 성장 호르몬에 연료를 공급하기 위해 그들은 배를 공격하고 축제와 같은 방식으로 승무원을 먹습니다. 최근 선박은 천사 영토에주의를 기울 였고 승무원들은 도난당한 선박으로 행성을 습격하기 시작했습니다.</Angels.description>
+  <!-- EN: angel -->
+  <Angels.pawnSingular>천사</Angels.pawnSingular>
+  <!-- EN: angels -->
+  <Angels.pawnsPlural>천사들</Angels.pawnsPlural>
+  <!-- EN: holy one -->
+  <Angels.leaderTitle>거룩한</Angels.leaderTitle>
+</LanguageData>

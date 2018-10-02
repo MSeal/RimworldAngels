@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fresh angel clone -->
+  <Fresh_Angel_Clone.label>新鮮な天使のクローン</Fresh_Angel_Clone.label>
+  <!-- EN: angel clone -->
+  <Angel_Clone.label>天使のクローン</Angel_Clone.label>
+  <!-- EN: angel clone -->
+  <Angel_Clone_Thrasher.label>天使のクローン</Angel_Clone_Thrasher.label>
+  <!-- EN: angel -->
+  <Angel_Brother.label>天使</Angel_Brother.label>
+  <!-- EN: angel brother -->
+  <Angel_Brother.labelMale>天使の兄弟</Angel_Brother.labelMale>
+  <!-- EN: angel sister -->
+  <Angel_Brother.labelFemale>天使の姉妹</Angel_Brother.labelFemale>
+  <!-- EN: angel slasher -->
+  <Angel_Slasher.label>天使の肉屋</Angel_Slasher.label>
+  <!-- EN: agent of the faith -->
+  <Angel_Heavy_Faither.label>信仰の代理人</Angel_Heavy_Faither.label>
+  <!-- EN: angel boss -->
+  <Angel_Boss.label>天使の大将</Angel_Boss.label>
+  <!-- EN: angel father -->
+  <Angel_Boss.labelMale>天使の父</Angel_Boss.labelMale>
+  <!-- EN: angel mother -->
+  <Angel_Boss.labelFemale>天使の母</Angel_Boss.labelFemale>
+  <!-- EN: angel bosses -->
+  <Angel_Boss.labelPlural>天使の大将</Angel_Boss.labelPlural>
+  <!-- EN: angel grenadier -->
+  <Angel_Grenadier.label>天使の手榴弾</Angel_Grenadier.label>
+  <!-- EN: angel meanie -->
+  <Angel_Meanie.label>天使のいじわる</Angel_Meanie.label>
+</LanguageData>

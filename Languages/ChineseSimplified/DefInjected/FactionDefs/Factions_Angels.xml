@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: angels -->
+  <Angels.label>天使</Angels.label>
+  <Angels.description>“天使”是一群被通缉的逃犯，他们在一个世纪前偷走了一艘克隆船并逃到了星空。从那以后，他们发展成为一个信仰宗​​教的邪教组织，他们相信跨性别的替代，同类相食和奇怪的正义感。邪教只包括原始被遗弃者的克隆，以及他们克隆船回家缓慢泄漏的反应堆核心的基因突变。为了激发他们的宗教活力和不断增长的无聊，他们攻击船只并以类似节日的方式吃他们的船员。最近航运已经变得对天使领域保持警惕，并且机组人员一直在用他们被盗的船只扩展到袭击行星。</Angels.description>
+  <!-- EN: angel -->
+  <Angels.pawnSingular>天使</Angels.pawnSingular>
+  <!-- EN: angels -->
+  <Angels.pawnsPlural>天使</Angels.pawnsPlural>
+  <!-- EN: holy one -->
+  <Angels.leaderTitle>圣洁的</Angels.leaderTitle>
+</LanguageData>

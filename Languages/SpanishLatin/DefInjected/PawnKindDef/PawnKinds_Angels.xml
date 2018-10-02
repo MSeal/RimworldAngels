@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fresh angel clone -->
+  <Fresh_Angel_Clone.label>clon de angel fresco</Fresh_Angel_Clone.label>
+  <!-- EN: angel clone -->
+  <Angel_Clone.label>ángel clon</Angel_Clone.label>
+  <!-- EN: angel clone -->
+  <Angel_Clone_Thrasher.label>ángel clon</Angel_Clone_Thrasher.label>
+  <!-- EN: angel -->
+  <Angel_Brother.label>ángel</Angel_Brother.label>
+  <!-- EN: angel brother -->
+  <Angel_Brother.labelMale>hermano ángel</Angel_Brother.labelMale>
+  <!-- EN: angel sister -->
+  <Angel_Brother.labelFemale>hermana ángel</Angel_Brother.labelFemale>
+  <!-- EN: angel slasher -->
+  <Angel_Slasher.label>cortador de angel</Angel_Slasher.label>
+  <!-- EN: agent of the faith -->
+  <Angel_Heavy_Faither.label>agente de la fe</Angel_Heavy_Faither.label>
+  <!-- EN: angel boss -->
+  <Angel_Boss.label>jefe de angel</Angel_Boss.label>
+  <!-- EN: angel father -->
+  <Angel_Boss.labelMale>padre angel</Angel_Boss.labelMale>
+  <!-- EN: angel mother -->
+  <Angel_Boss.labelFemale>ángel madre</Angel_Boss.labelFemale>
+  <!-- EN: angel bosses -->
+  <Angel_Boss.labelPlural>jefes de angel</Angel_Boss.labelPlural>
+  <!-- EN: angel grenadier -->
+  <Angel_Grenadier.label>angel granadero</Angel_Grenadier.label>
+  <!-- EN: angel meanie -->
+  <Angel_Meanie.label>angelito</Angel_Meanie.label>
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fresh angel clone -->
+  <Fresh_Angel_Clone.label>신선한 천사 복제품</Fresh_Angel_Clone.label>
+  <!-- EN: angel clone -->
+  <Angel_Clone.label>천사 복제품</Angel_Clone.label>
+  <!-- EN: angel clone -->
+  <Angel_Clone_Thrasher.label>천사 복제품</Angel_Clone_Thrasher.label>
+  <!-- EN: angel -->
+  <Angel_Brother.label>천사</Angel_Brother.label>
+  <!-- EN: angel brother -->
+  <Angel_Brother.labelMale>천사의 형제</Angel_Brother.labelMale>
+  <!-- EN: angel sister -->
+  <Angel_Brother.labelFemale>천사 누이</Angel_Brother.labelFemale>
+  <!-- EN: angel slasher -->
+  <Angel_Slasher.label>천사 슬래셔</Angel_Slasher.label>
+  <!-- EN: agent of the faith -->
+  <Angel_Heavy_Faither.label>신앙의 대리인</Angel_Heavy_Faither.label>
+  <!-- EN: angel boss -->
+  <Angel_Boss.label>천사 상사</Angel_Boss.label>
+  <!-- EN: angel father -->
+  <Angel_Boss.labelMale>천사의 아버지</Angel_Boss.labelMale>
+  <!-- EN: angel mother -->
+  <Angel_Boss.labelFemale>천사 어머니</Angel_Boss.labelFemale>
+  <!-- EN: angel bosses -->
+  <Angel_Boss.labelPlural>천사 두목</Angel_Boss.labelPlural>
+  <!-- EN: angel grenadier -->
+  <Angel_Grenadier.label>천사 척탄병</Angel_Grenadier.label>
+  <!-- EN: angel meanie -->
+  <Angel_Meanie.label>천사의 사람</Angel_Meanie.label>
+</LanguageData>

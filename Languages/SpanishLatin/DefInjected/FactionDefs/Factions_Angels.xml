@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: angels -->
+  <Angels.label>ángeles</Angels.label>
+  <Angels.description>Los "Ángeles" eran un grupo de fugitivos buscados que robaron una nave de clonación un siglo antes y escaparon a las estrellas. Desde entonces, se han convertido en un culto muy religioso que cree en los reemplazos transhumanos, el canibalismo y los extraños sentidos de la justicia. El culto solo incluye los clones de los marginados originales y sus mutaciones genéticas del núcleo del reactor que se está escapando lentamente de su casa de clones. Para alimentar su vigor religioso y su creciente aburrimiento, atacan a los barcos y se comen a sus tripulaciones en forma de festival. Últimamente, la navegación se ha vuelto cautelosa del territorio de los Ángeles y las tripulaciones se han estado expandiendo para atacar planetas con sus barcos robados.</Angels.description>
+  <!-- EN: angel -->
+  <Angels.pawnSingular>ángel</Angels.pawnSingular>
+  <!-- EN: angels -->
+  <Angels.pawnsPlural>ángeles</Angels.pawnsPlural>
+  <!-- EN: holy one -->
+  <Angels.leaderTitle>El sagrado</Angels.leaderTitle>
+</LanguageData>

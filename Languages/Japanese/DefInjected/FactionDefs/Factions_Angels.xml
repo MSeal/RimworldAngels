@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: angels -->
+  <Angels.label>天使</Angels.label>
+  <Angels.description>「天使」は一世紀前にクローン船を盗んで星に逃げた逃亡者群だった。彼らは以来、人間の交代、食い違い、そして奇妙な正義感を信じる深刻な宗教的宗教に発展しました。そのカルトには、元々流出したクローンのクローンとクローン船の家のゆっくりと漏れる炉心からの遺伝子変異だけが含まれています。彼らの宗教的な活力と退屈な成長に燃料を供給するために、彼らは船を攻撃し、フェスティバルのような方法で乗組員を食べる。最近、船舶は天使の領土を警戒し、乗組員は盗まれた船で惑星を襲撃するようになりました。</Angels.description>
+  <!-- EN: angel -->
+  <Angels.pawnSingular>天使</Angels.pawnSingular>
+  <!-- EN: angels -->
+  <Angels.pawnsPlural>天使</Angels.pawnsPlural>
+  <!-- EN: holy one -->
+  <Angels.leaderTitle>聖なる人</Angels.leaderTitle>
+</LanguageData>

@@ -5,9 +5,42 @@
     <url>https://github.com/MSeal/RimworldAngels</url>
     <targetVersion>0.19.2009</targetVersion>
     <description>[h1][B19] Factions: Angels[/h1]
+
+A mod which add an "Angel" cannibal gang faction to the game.
+
+[h1]Angels[/h1]
+
+The “Angels” were a group of wanted fugitives who stole a cloning ship a century earlier and escaped to the stars. They have since developed into a severely religious cult who believe in trans-human replacements, cannibalism, and odd senses of justice. The cult only includes clones of the original outcasts, and their genetic mutations from the slowly leaking reactor core of their clone ship home. To fuel their religious vigor and growing boredom they attack ships and eat their crews in festival-like fashion. Lately shipping has become wary of Angel territory and the crews have been expanding to raiding planets with their stolen ships.
+
+[h1]Additions[/h1]
+
+Adds a new faction to the game, "Angels", which have a tendency to be heavily modified by prostetics. They're all cannibal clones, but if you were thinking free access to the rarest trait, you may have a hard time recruiting. These maniacs have a crazy religious streak which keeps them faithful to "the family".
+
+[h1]Current (Quite Crude) Translations[/h1]
+- English
+- French
+- German
+- Italian
+- Chinese
+- Korean
+- Japanese
+- Portuguese
+- Russian
+- Spanish
+
+Link me translation fixes/additions and I'll add them in.
+
+[h1]FAQ[/h1]
+
+[b]Is this save game compatible?[/b]
+
+    Yes, but the new faction won't appear in the world anywhere. So I'd suggest only use this with new saves.
+
 [h1]Credits[/h1]
 
-[url=https://www.freepik.com/index.php?goto=74&idfoto=1141430]Angel Logo Designed by Freepik[/url]
+Inspired by good ol' [url=https://en.wikipedia.org/wiki/Angel_Gang]Dredd villans[/url]
+[url=https://www.freepik.com/free-vector/collection-of-black-wings_1141430.htm]Angel Logo Designed by Freepik[/url]
+[url=https://comicvine.gamespot.com/images/1300-6447893]Angel Meanie[/url]
 [url=https://github.com/pardeike/Harmony]Powered by Harmony Patch Library[/url]
     </description>
 </ModMetaData>

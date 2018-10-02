@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: angels -->
+  <Angels.label>Engel</Angels.label>
+  <Angels.description>Die "Engel" waren eine Gruppe von gewollten Flüchtlingen, die ein Klonierschiff ein Jahrhundert zuvor gestohlen und zu den Sternen entkommen waren. Sie haben sich seitdem zu einem streng religiösen Kult entwickelt, der an transhumanen Ersatz, Kannibalismus und seltsame Gerechtigkeitssinne glaubt. Der Kult enthält nur Klone der ursprünglichen Ausgestoßenen und ihre genetischen Mutationen aus dem langsam undicht gewordenen Reaktorkern ihres Heimatklons. Um ihre religiöse Kraft und ihre wachsende Langeweile anzuregen, attackieren sie Schiffe und essen ihre Besatzungen auf eine festliche Weise. In letzter Zeit ist die Schiffahrt auf das Territorium von Angel aufmerksam geworden, und die Besatzungen haben sich mit ihren gestohlenen Schiffen auf Raubplaneten ausgeweitet.</Angels.description>
+  <!-- EN: angel -->
+  <Angels.pawnSingular>Engel</Angels.pawnSingular>
+  <!-- EN: angels -->
+  <Angels.pawnsPlural>Engel</Angels.pawnsPlural>
+  <!-- EN: holy one -->
+  <Angels.leaderTitle>der Heilige</Angels.leaderTitle>
+</LanguageData>

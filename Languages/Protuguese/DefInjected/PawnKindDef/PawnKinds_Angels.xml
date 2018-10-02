@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fresh angel clone -->
+  <Fresh_Angel_Clone.label>clone de anjo fresco</Fresh_Angel_Clone.label>
+  <!-- EN: angel clone -->
+  <Angel_Clone.label>clone do anjo</Angel_Clone.label>
+  <!-- EN: angel clone -->
+  <Angel_Clone_Thrasher.label>clone do anjo</Angel_Clone_Thrasher.label>
+  <!-- EN: angel -->
+  <Angel_Brother.label>anjo</Angel_Brother.label>
+  <!-- EN: angel brother -->
+  <Angel_Brother.labelMale>anjo irmão</Angel_Brother.labelMale>
+  <!-- EN: angel sister -->
+  <Angel_Brother.labelFemale>irmã do anjo</Angel_Brother.labelFemale>
+  <!-- EN: angel slasher -->
+  <Angel_Slasher.label>cortador de anjo</Angel_Slasher.label>
+  <!-- EN: agent of the faith -->
+  <Angel_Heavy_Faither.label>agente da fé</Angel_Heavy_Faither.label>
+  <!-- EN: angel boss -->
+  <Angel_Boss.label>chefe do anjo</Angel_Boss.label>
+  <!-- EN: angel father -->
+  <Angel_Boss.labelMale>anjo pai</Angel_Boss.labelMale>
+  <!-- EN: angel mother -->
+  <Angel_Boss.labelFemale>mãe anjo</Angel_Boss.labelFemale>
+  <!-- EN: angel bosses -->
+  <Angel_Boss.labelPlural>chefes de anjo</Angel_Boss.labelPlural>
+  <!-- EN: angel grenadier -->
+  <Angel_Grenadier.label>anjo granadeiro</Angel_Grenadier.label>
+  <!-- EN: angel meanie -->
+  <Angel_Meanie.label>anjo mesquinho</Angel_Meanie.label>
+</LanguageData>

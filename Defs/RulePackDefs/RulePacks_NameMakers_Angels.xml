@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <RulePackDef>
+    <defName>NamerBaseAngel</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name->[AngelPrefix] [AngelBasePostfix]</li>
+      </rulesStrings>
+      <rulesRaw>
+        <li Class="Rule_File">
+          <keyword>AngelPrefix</keyword>
+          <path>NameBanks/AngelPrefix</path>
+        </li>
+        <li Class="Rule_File">
+          <keyword>AngelBasePostfix</keyword>
+          <path>NameBanks/AngelBasePostfix</path>
+        </li>
+      </rulesRaw>
+    </rulePack>
+  </RulePackDef>
+
+  <RulePackDef>
+    <defName>NamerFactionAngel</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name->[AngelPrefix] [AngelFactionPostfix]</li>
+      </rulesStrings>
+      <rulesRaw>
+        <li Class="Rule_File">
+          <keyword>AngelPrefix</keyword>
+          <path>NameBanks/AngelPrefix</path>
+        </li>
+        <li Class="Rule_File">
+          <keyword>AngelFactionPostfix</keyword>
+          <path>NameBanks/AngelFactionPostfix</path>
+        </li>
+      </rulesRaw>
+    </rulePack>
+  </RulePackDef>
+
+</Defs>

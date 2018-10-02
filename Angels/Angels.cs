@@ -82,8 +82,4 @@ namespace Angels
 
         public int maxHediffs = 1;
     }
-
-    public class Angels
-    {
-    }
 }

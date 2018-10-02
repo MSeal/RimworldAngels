@@ -33,7 +33,7 @@
     </gearHealthRange>
     <techHediffsChance>0.9</techHediffsChance>
     <chemicalAddictionChance>0.3</chemicalAddictionChance>
-    <baseRecruitDifficulty>0.75</baseRecruitDifficulty>
+    <baseRecruitDifficulty>0.8</baseRecruitDifficulty>
     <backstoryCryptosleepCommonality>0.01</backstoryCryptosleepCommonality>
     <maxGenerationAge>35</maxGenerationAge>
     <invNutrition>2.55</invNutrition>
@@ -176,8 +176,10 @@
       <max>1000</max>
     </techHediffsMoney>
     <techHediffsTags>
+      <li>Poor</li>
       <li>Simple</li>
       <li>Advanced</li>
+      <!-- In case other parts mods are turned on -->
       <li>AdvancedGTLimb</li>
     </techHediffsTags>
     <inventoryOptions>
@@ -202,10 +204,10 @@
   </PawnKindDef>
 
   <PawnKindDef ParentName="AngelBrotherBase">
+    <defName>Angel_Brother</defName>
     <label>angel</label>
     <labelMale>angel brother</labelMale>
     <labelFemale>angel sister</labelFemale>
-    <defName>Angel_Brother</defName>
     <combatPower>70</combatPower>
     <weaponTags>
       <li>Gun</li>
@@ -269,9 +271,6 @@
       <li>IndustrialMilitaryBasic</li>
       <li>IndustrialMilitaryAdvanced</li>
     </apparelTags>
-    <apparelRequired>
-      <li>Apparel_ShieldBelt</li>
-    </apparelRequired>
     <weaponMoney>
       <min>1200</min>
       <max>1200</max>
@@ -364,7 +363,6 @@
       <li>SpacerMilitary</li>
       <li>BeltDefensePop</li>
     </apparelTags>
-    <apparelAllowHeadgearChance>0.9</apparelAllowHeadgearChance>
     <apparelMoney>
       <min>2000</min>
       <max>3000</max>
